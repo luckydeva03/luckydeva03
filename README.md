@@ -40,8 +40,8 @@ Saya adalah seorang mahasiswa yang bersemangat untuk selalu belajar. Saya senang
 ---
 
 ## 🏆 Proyek Unggulan
-- **🌟 [Website]** - Website Digitalisasi Desa dan Booking Barbershop menggunakan Laravel
-- **🏢 [ERP Customization]** - Customization modul Odoo untuk sistem bisnis PT Puspetindo
+- **🌟 [Web Portfolio]** - Website portfolio personal dengan Laravel
+- **🏢 [ERP Customization]** - Customization modul Odoo untuk sistem bisnis
 - **📱 [Responsive Web App]** - Aplikasi web responsif dengan JavaScript vanilla
 - **🎨 [UI/UX Design Project]** - Design mockup aplikasi mobile dengan Figma
 
@@ -49,12 +49,12 @@ Saya adalah seorang mahasiswa yang bersemangat untuk selalu belajar. Saya senang
 
 ## 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=deva-lucky&show_icons=true&theme=tokyonight" width="45%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=deva-lucky&theme=tokyonight" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=luckydeva03&show_icons=true&theme=tokyonight" width="45%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=luckydeva03&theme=tokyonight" width="45%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deva-lucky&theme=tokyonight&layout=compact" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luckydeva03&theme=tokyonight&layout=compact" width="45%" />
 </p>
 
 ---
@@ -81,7 +81,7 @@ Saya adalah seorang mahasiswa yang bersemangat untuk selalu belajar. Saya senang
 
 ---
 
-## 🎯 Goals 2025
+## 🎯 Goals 2024
 - [ ] Master Laravel Framework
 - [ ] Complete 5 full-stack projects
 - [ ] Learn React.js basics
@@ -96,20 +96,6 @@ Saya adalah seorang mahasiswa yang bersemangat untuk selalu belajar. Saya senang
 
 ### 🚀 Let's build something amazing together!
 
-![Profile Views](https://komarev.com/ghpvc/?username=deva-lucky&color=brightgreen)
+![Profile Views](https://komarev.com/ghpvc/?username=luckydeva03&color=brightgreen)
 
 </div>
-<!--
-**luckydeva03/luckydeva03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
