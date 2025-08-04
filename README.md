@@ -40,8 +40,8 @@ Saya adalah seorang mahasiswa yang bersemangat untuk selalu belajar. Saya senang
 ---
 
 ## 🏆 Proyek Unggulan
-- **🌟 [Web Portfolio]** - Website portfolio personal dengan Laravel
-- **🏢 [ERP Customization]** - Customization modul Odoo untuk sistem bisnis
+- **🌟 [Website]** - Website Digitalisasi Desa dan Booking Barbershop menggunakan Laravel
+- **🏢 [ERP Customization]** - Customization modul Odoo untuk sistem bisnis PT Puspetindo
 - **📱 [Responsive Web App]** - Aplikasi web responsif dengan JavaScript vanilla
 - **🎨 [UI/UX Design Project]** - Design mockup aplikasi mobile dengan Figma
 
@@ -81,7 +81,7 @@ Saya adalah seorang mahasiswa yang bersemangat untuk selalu belajar. Saya senang
 
 ---
 
-## 🎯 Goals 2024
+## 🎯 Goals 2025
 - [ ] Master Laravel Framework
 - [ ] Complete 5 full-stack projects
 - [ ] Learn React.js basics
