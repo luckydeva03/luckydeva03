@@ -47,10 +47,10 @@ Saya adalah seorang mahasiswa yang bersemangat untuk selalu belajar. Saya senang
 
   ---
   
-  ## 📈 GitHub Stats
+ <!--  ## 📈 GitHub Stats
   <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=luckydeva03&show_icons=true&theme=tokyonight" width="45%" />
-<!--     <img src="https://github-readme-streak-stats.herokuapp.com/?user=luckydeva03&theme=tokyonight" width="45%" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=luckydeva03&theme=tokyonight" width="45%" />
   </p>
   
   <p align="center">
