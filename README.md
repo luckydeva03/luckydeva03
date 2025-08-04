@@ -16,7 +16,6 @@ Saya adalah seorang mahasiswa yang bersemangat untuk selalu belajar. Saya senang
 
 ## 🛠️ Tools & Teknologi
 
-<p>
   <img src="https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&logoColor=white&color=777BB4" />
   <img src="https://img.shields.io/badge/Framework-Laravel-informational?style=flat&logo=laravel&logoColor=white&color=FF2D20" />
   <img src="https://img.shields.io/badge/Odoo-ERP-purple?style=flat&logo=odoo&logoColor=white&color=714B67" />
@@ -25,7 +24,6 @@ Saya adalah seorang mahasiswa yang bersemangat untuk selalu belajar. Saya senang
   <img src="https://img.shields.io/badge/CSS-informational?style=flat&logo=css3&logoColor=white&color=1572B6" />
   <img src="https://img.shields.io/badge/JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=F7DF1E" />
   <img src="https://img.shields.io/badge/VSCode-Editor-blue?style=flat&logo=visualstudiocode&logoColor=white&color=007ACC" />
-</p>
 
 ---
 
@@ -40,14 +38,14 @@ Saya adalah seorang mahasiswa yang bersemangat untuk selalu belajar. Saya senang
 
 ### ✨ Fun Fact
 
-> "Saya suka mengulik sistem backend, tapi juga penasaran dengan frontend yang rapi dan responsif!"
+> "Bikin DIV posisi center itu ribet woe!"
 
 ---
 
 ### 📫 Kontak Saya
 
-- 🌐 [LinkedIn](https://www.linkedin.com/in/deva-lucky/) *(opsional, kalau ada)*
-- 📧 Email: devatendean[at]gmail[dot]com
+- 🌐 [LinkedIn](https://www.linkedin.com/in/luckydeva/)
+- 📧 Email: luckydeva2003@gmail.com
 - 🗺️ Lokasi: Gresik, Jawa Timur
 
 ---
