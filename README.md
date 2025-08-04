@@ -45,24 +45,24 @@ Saya adalah seorang mahasiswa yang bersemangat untuk selalu belajar. Saya senang
 - **📱 [Responsive Web App]** - Aplikasi web responsif dengan JavaScript vanilla
 - **🎨 [UI/UX Design Project]** - Design mockup aplikasi mobile dengan Figma
 
----
-
-## 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=luckydeva03&show_icons=true&theme=tokyonight" width="45%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=luckydeva03&theme=tokyonight" width="45%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luckydeva03&theme=tokyonight&layout=compact" width="45%" />
-</p>
-
----
-
-## 🏅 Sertifikasi & Pencapaian
-- 📜 Web Development Fundamentals
-- 🏆 Hackathon Participant (jika ada)
-- 📚 Continuous Learning: Laravel, Odoo, Python
+  ---
+  
+  ## 📈 GitHub Stats
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=luckydeva03&show_icons=true&theme=tokyonight" width="45%" />
+<!--     <img src="https://github-readme-streak-stats.herokuapp.com/?user=luckydeva03&theme=tokyonight" width="45%" />
+  </p>
+  
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luckydeva03&theme=tokyonight&layout=compact" width="45%" />
+  </p>
+  
+  ---
+  
+  ## 🏅 Sertifikasi & Pencapaian
+  - 📜 Web Development Fundamentals
+  - 🏆 Hackathon Participant (jika ada)
+  - 📚 Continuous Learning: Laravel, Odoo, Python -->
 
 ---
 
