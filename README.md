@@ -81,7 +81,7 @@ Saya adalah seorang mahasiswa yang bersemangat untuk selalu belajar. Saya senang
 
 ---
 
-## 🎯 Goals 2024
+## 🎯 Goals 2025
 - [ ] Master Laravel Framework
 - [ ] Complete 5 full-stack projects
 - [ ] Learn React.js basics
