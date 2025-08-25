@@ -73,11 +73,11 @@ Saya adalah seorang mahasiswa yang bersemangat untuk selalu belajar. Saya senang
 ---
 
 ## 📫 Kontak Saya
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luckydeva/)
-- 🌐 (https://luckydeva.vercel.app/)
-- 📧 Email: luckydeva2003@gmail.com
-- 🗺️ Lokasi: Gresik, Jawa Timur
-- 💼 Status: Open for opportunities & collaborations
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luckydeva/)
+[![Website](https://img.shields.io/badge/Website-luckydeva.vercel.app-informational?style=flat&logo=google-chrome&logoColor=white)](https://luckydeva.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-luckydeva2003@gmail.com-red?style=flat&logo=gmail&logoColor=white)](mailto:luckydeva2003@gmail.com)
+[![Location](https://img.shields.io/badge/Gresik,%20Jawa%20Timur-Location-orange?style=flat&logo=google-maps&logoColor=white)](https://www.google.com/maps/place/Gresik,+Jawa+Timur)
+[![Status](https://img.shields.io/badge/Open%20for%20opportunities%20&%20collaborations-success?style=flat&logo=handshake&logoColor=white)](#)
 
 ---
 
