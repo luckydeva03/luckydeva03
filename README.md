@@ -7,7 +7,6 @@ Saya adalah seorang mahasiswa yang bersemangat untuk selalu belajar. Saya senang
 🔭 **Saat ini saya sedang belajar:**
 - Web Development (HTML, CSS, JavaScript, Laravel)
 - ERP Customization (Odoo Studio & Python)
-- Data Analysis & Machine Learning dasar
 - UI/UX Design dengan Figma
 
 🎯 **Tujuan saya:** Menjadi Web Developer yang andal dengan pemahaman sistem bisnis yang kuat.
