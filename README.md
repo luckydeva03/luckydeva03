@@ -73,7 +73,9 @@ Saya adalah seorang mahasiswa yang bersemangat untuk selalu belajar. Saya senang
 ---
 
 ## 📫 Kontak Saya
-- 🌐 [LinkedIn](https://www.linkedin.com/in/luckydeva/)
+- <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/977646f1-b4e0-4fab-bc07-842d3bcd25f3" />
+ [LinkedIn](https://www.linkedin.com/in/luckydeva/)
+- 🌐 (https://luckydeva.vercel.app/)
 - 📧 Email: luckydeva2003@gmail.com
 - 🗺️ Lokasi: Gresik, Jawa Timur
 - 💼 Status: Open for opportunities & collaborations
